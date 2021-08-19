@@ -1,2 +1,2 @@
 # github
-a exercise for python
+an exercise for python
